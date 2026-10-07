@@ -52,9 +52,6 @@ library(dplyr)
 
 WB_econ_indicators <- read_csv("data/world_bank_data_2025.csv") 
 
-unique(WB_econ_indicators$country_name)
-
-
 #subset of countries: bottom 10 GDP per capita
 bottom5_gdppc <- WB_econ_indicators |>
   group_by(year) |>
@@ -86,6 +83,44 @@ ggplot(data = bottom5_gdppc_2023,
 
 ```
 
+# Visualization 3
+
 ```{r}
+library(tidyverse)
+library(ggrepel)
+
+WB_econ_indicators_2023 <- WB_econ_indicators |>
+  filter(year == 2023)
+
+outliers <- WB_econ_indicators_2023 |>
+  filter(
+    `GDP Growth (% Annual)` < -5 |
+    `GDP Growth (% Annual)` > 10 |
+    `Unemployment Rate (%)` > 20
+  )
+
+ggplot(data = WB_econ_indicators_2023,
+       mapping = aes(x = `GDP Growth (% Annual)`,
+                     y = `Unemployment Rate (%)`,
+                     size = `GDP per Capita (Current USD)`)) +
+  geom_point(shape = 21,
+             color = "white",
+             fill = "red",
+             alpha = 0.8) +
+  geom_text_repel(data = outliers,
+                  aes(label = country_name),
+                  size = 2.5) +
+  scale_size_area(name = "GDP per Capita (Current USD)",
+                  max_size = 20) +
+  labs(title = "Global Economic Growth, Unemployment, and Income, 2023",
+       subtitle = paste("Outlier countries in either unemployment or GDP",
+       "growth\nare labeled, point size represents GDP per capita"),
+       caption = "Source: World Bank Global Economic Indicators, 2010-2025") +
+  theme_minimal() +
+  theme(
+    legend.key.size = unit(0.5, "cm"),
+    legend.text = element_text(size = 5),
+    legend.title = element_text(size = 6)
+  ) 
 
 ```
