@@ -1,0 +1,795 @@
+Country,Year,Share below $3 a day
+Albania,2016,1.1406198
+Albania,2017,1.4444441
+Albania,2018,1.0100294
+Albania,2019,0.27236944
+Albania,2020,0.34092245
+Angola,2018,39.294704
+Argentina (urban),2016,1.269002
+Argentina (urban),2017,1.1142496
+Argentina (urban),2018,1.6383039
+Argentina (urban),2019,1.6846492
+Argentina (urban),2020,2.1969552
+Argentina (urban),2021,1.3630346
+Argentina (urban),2022,1.294458
+Argentina (urban),2023,1.1574727
+Argentina (urban),2024,0.96368045
+Armenia,2016,2.515995
+Armenia,2017,2.3624778
+Armenia,2018,2.8966322
+Armenia,2019,2.4278004
+Armenia,2020,1.5165919
+Armenia,2021,2.1180894
+Armenia,2022,1.8968815
+Armenia,2023,1.9280258
+Armenia,2024,0.78427756
+Australia,2016,0.5
+Australia,2018,0.6
+Australia,2020,0.9
+Austria,2016,0.6640636
+Austria,2017,0.34972978
+Austria,2018,0.56835836
+Austria,2019,0.6466445
+Austria,2020,0.7386065
+Austria,2021,0.4858222
+Austria,2022,0.6439738
+Austria,2023,0.5282233
+Bangladesh,2016,19.511166
+Bangladesh,2022,5.9090796
+Barbados,2016,1.6773976
+Belarus,2016,0
+Belarus,2017,0.027521607
+Belarus,2018,0.022012189
+Belarus,2019,0
+Belarus,2020,0
+Belgium,2016,0.059816156
+Belgium,2017,0.1749619
+Belgium,2018,0.089751184
+Belgium,2019,0.10684811
+Belgium,2020,0.08580288
+Belgium,2021,0.03657119
+Belgium,2022,0.020451888
+Belgium,2023,0.08690045
+Belize,2018,1.0364783
+Benin,2018,37.176537
+Benin,2021,27.223417
+Bhutan,2017,2.614205
+Bhutan,2022,0.006953539
+Bolivia,2016,7.1725206
+Bolivia,2017,6.4122796
+Bolivia,2018,4.6958623
+Bolivia,2019,3.138594
+Bolivia,2020,4.2469187
+Bolivia,2021,3.0546808
+Bolivia,2022,3.2671218
+Bolivia,2023,2.8174872
+Bolivia,2024,2.0502071
+Bosnia and Herzegovina,2021,0.26745364
+Brazil,2016,6.493394
+Brazil,2017,6.957947
+Brazil,2018,6.910514
+Brazil,2019,7.032903
+Brazil,2020,2.76635
+Brazil,2021,7.458675
+Brazil,2022,4.853658
+Brazil,2023,3.80309
+Brazil,2024,3.007523
+Bulgaria,2016,3.0671728
+Bulgaria,2017,2.0031643
+Bulgaria,2018,1.4946728
+Bulgaria,2019,1.6310848
+Bulgaria,2020,0.7054354
+Bulgaria,2021,1.2280912
+Bulgaria,2022,1.0529679
+Bulgaria,2023,1.0110016
+Burkina Faso,2018,47.681065
+Burkina Faso,2021,42.061634
+Burundi,2020,74.19917
+Cameroon,2021,26.691801
+Canada,2016,0.4
+Canada,2017,0.4
+Canada,2018,0.4
+Canada,2019,0.4
+Canada,2020,0.1
+Canada,2021,0.2
+Canada,2022,0.3
+Central African Republic,2021,71.61735
+Chad,2018,41.861454
+Chad,2022,39.475376
+Chile,2017,0.48276448
+Chile,2020,1.7220365
+Chile,2022,0.64729095
+Chile,2024,0.39967474
+China,2016,2.0913434
+China,2017,1.5748829
+China,2018,0.7495911
+China,2019,0
+China,2020,0
+China,2021,0
+China,2022,0
+China (rural),2016,5.0810003
+China (rural),2017,3.961
+China (rural),2018,1.947
+China (rural),2019,0
+China (rural),2020,0
+China (rural),2021,0
+China (rural),2022,0
+China (urban),2016,0
+China (urban),2017,0
+China (urban),2018,0
+China (urban),2019,0
+China (urban),2020,0
+China (urban),2021,0
+China (urban),2022,0
+Colombia,2016,10.054032
+Colombia,2017,9.527941
+Colombia,2018,9.828609
+Colombia,2019,11.289347
+Colombia,2020,15.764915
+Colombia,2021,11.228374
+Colombia,2022,9.266202
+Colombia,2023,8.631685
+Colombia,2024,8.500736
+Comoros,2020,8.933123
+Comoros,2024,5.0668287
+Costa Rica,2016,2.4029
+Costa Rica,2017,1.7488792
+Costa Rica,2018,2.320724
+Costa Rica,2019,1.7298357
+Costa Rica,2020,3.3517811
+Costa Rica,2021,2.159623
+Costa Rica,2022,1.5987651
+Costa Rica,2023,1.5395533
+Costa Rica,2024,1.2837076
+Costa Rica,2025,0.7546557
+Cote d'Ivoire,2018,21.671074
+Cote d'Ivoire,2021,20.826096
+Croatia,2016,0.8571757
+Croatia,2017,0.6165376
+Croatia,2018,0.5039287
+Croatia,2019,0.36413732
+Croatia,2020,0.44392744
+Croatia,2021,0.34081304
+Croatia,2022,0.39773995
+Croatia,2023,0.26276088
+Cyprus,2016,0.076234505
+Cyprus,2017,0.05130247
+Cyprus,2018,0.078181595
+Cyprus,2019,0.1747171
+Cyprus,2020,0.022083696
+Cyprus,2021,0.049308844
+Cyprus,2022,0.0050622793
+Cyprus,2023,0.013168178
+Czechia,2016,0
+Czechia,2017,0
+Czechia,2018,0.008861816
+Czechia,2019,0
+Czechia,2020,0.00814216
+Czechia,2021,0.059850585
+Czechia,2022,0
+Czechia,2023,0
+Democratic Republic of Congo,2020,85.31767
+Denmark,2016,0.27838695
+Denmark,2017,0.14254275
+Denmark,2018,0.2265287
+Denmark,2019,0.26920906
+Denmark,2020,0.1649913
+Denmark,2021,0.15367964
+Denmark,2022,0.24447891
+Denmark,2023,0.35922468
+Djibouti,2017,25.36088
+Dominican Republic,2016,2.9633386
+Dominican Republic,2017,1.5202537
+Dominican Republic,2018,1.1012305
+Dominican Republic,2019,1.008983
+Dominican Republic,2020,1.3026447
+Dominican Republic,2021,1.2714583
+Dominican Republic,2022,0.95548296
+Dominican Republic,2023,1.2726033
+Dominican Republic,2024,0.77533007
+East Asia and Pacific (WB),2016,5.0156283
+East Asia and Pacific (WB),2017,4.137815
+East Asia and Pacific (WB),2018,3.286516
+East Asia and Pacific (WB),2019,2.5832386
+East Asia and Pacific (WB),2020,2.7232592
+East Asia and Pacific (WB),2021,2.6210022
+East Asia and Pacific (WB),2022,2.4114027
+East Asia and Pacific (WB),2023,2.185358
+East Asia and Pacific (WB),2024,1.9746715
+East Asia and Pacific (WB),2025,1.7365413
+East Asia and Pacific (WB),2026,1.6270319
+Eastern and Southern Africa (WB),2016,49.383274
+Eastern and Southern Africa (WB),2017,49.820496
+Eastern and Southern Africa (WB),2018,50.290615
+Eastern and Southern Africa (WB),2019,50.75916
+Eastern and Southern Africa (WB),2020,52.363438
+Eastern and Southern Africa (WB),2021,52.327667
+Eastern and Southern Africa (WB),2022,51.679302
+Eastern and Southern Africa (WB),2023,51.632195
+Eastern and Southern Africa (WB),2024,51.370125
+Eastern and Southern Africa (WB),2025,50.452614
+Eastern and Southern Africa (WB),2026,49.579563
+Ecuador,2016,4.9700646
+Ecuador,2017,4.279495
+Ecuador,2018,4.6928425
+Ecuador,2019,4.647917
+Ecuador,2020,8.438639
+Ecuador,2021,5.2759323
+Ecuador,2022,4.444918
+Ecuador,2023,4.6807413
+Ecuador,2024,7.3132634
+Ecuador,2025,3.4184568
+Egypt,2017,3.1126537
+Egypt,2019,1.9851137
+Egypt,2021,1.3737847
+El Salvador,2016,5.7748566
+El Salvador,2017,4.5509996
+El Salvador,2018,4.0671077
+El Salvador,2019,2.9840348
+El Salvador,2021,5.1309085
+El Salvador,2022,5.206789
+El Salvador,2023,4.6368394
+Equatorial Guinea,2022,8.794199
+Estonia,2016,0.58523077
+Estonia,2017,0.51896274
+Estonia,2018,0.41700298
+Estonia,2019,0.72018766
+Estonia,2020,0.4140315
+Estonia,2021,0.34916055
+Estonia,2022,0.4982526
+Estonia,2023,0.316949
+Eswatini,2016,44.53093
+Ethiopia,2021,38.636116
+Europe and Central Asia (WB),2016,0.9888378
+Europe and Central Asia (WB),2017,0.99032176
+Europe and Central Asia (WB),2018,0.83370435
+Europe and Central Asia (WB),2019,0.7703364
+Europe and Central Asia (WB),2020,0.84798753
+Europe and Central Asia (WB),2021,0.8002977
+Europe and Central Asia (WB),2022,0.7536609
+Europe and Central Asia (WB),2023,0.6532037
+Europe and Central Asia (WB),2024,0.564501
+Europe and Central Asia (WB),2025,0.527819
+Europe and Central Asia (WB),2026,0.50266415
+Fiji,2019,4.6530714
+Finland,2016,0.047236145
+Finland,2017,0.076250486
+Finland,2018,0.07705909
+Finland,2019,0.041093014
+Finland,2020,0.030100688
+Finland,2021,0.021342963
+Finland,2022,0.10597815
+Finland,2023,0.19506416
+France,2016,0.06470839
+France,2017,0.018483544
+France,2018,0.021168053
+France,2019,0.051448993
+France,2020,0.11489582
+France,2021,0.07056647
+France,2022,0.054856163
+France,2023,0.069723465
+Gabon,2017,3.8104873
+Gambia,2020,22.001888
+Georgia,2016,10.471306
+Georgia,2017,11.065369
+Georgia,2018,10.99111
+Georgia,2019,9.702694
+Georgia,2020,11.976328
+Georgia,2021,10.790029
+Georgia,2022,7.733272
+Georgia,2023,5.826692
+Georgia,2024,4.229261
+Germany,2016,0.1
+Germany,2017,0.2
+Germany,2018,0.1
+Germany,2019,0.2
+Germany,2020,0.3
+Germany,2021,0.6
+Germany,2022,0.70000005
+Ghana,2016,39.02579
+Greece,2016,1.3920056
+Greece,2017,1.0717372
+Greece,2018,0.15987666
+Greece,2019,0.97269577
+Greece,2020,1.0963272
+Greece,2021,0.70142734
+Greece,2022,0.6239609
+Greece,2023,0.5942829
+Grenada,2018,0.76735455
+Guatemala,2023,9.66095
+Guinea,2018,11.650445
+Guinea-Bissau,2018,37.09505
+Guinea-Bissau,2021,39.86111
+Honduras,2016,19.84204
+Honduras,2017,19.327454
+Honduras,2018,19.84625
+Honduras,2019,18.77903
+Honduras,2023,17.021276
+Honduras,2024,15.717371
+Hungary,2016,1.5732795
+Hungary,2017,0.91795725
+Iceland,2016,0
+Iceland,2017,0
+Iceland,2018,0.2681579
+Iceland,2019,0.079942025
+India,2022,5.2516403
+India,2023,2.5724065
+Indonesia,2016,18.046635
+Indonesia,2017,14.7567425
+Indonesia,2018,12.466634
+Indonesia,2019,10.850212
+Indonesia,2020,9.847771
+Indonesia,2021,8.564435
+Indonesia,2022,7.853635
+Indonesia,2023,6.7161665
+Indonesia,2024,5.394058
+Indonesia,2025,3.691557
+Iran,2016,2.9715514
+Iran,2017,2.6673317
+Iran,2018,3.1507306
+Iran,2019,4.2802615
+Iran,2020,4.64235
+Iran,2021,3.708684
+Iran,2022,2.8053067
+Iran,2023,2.4873052
+Iraq,2023,0.54941875
+Ireland,2016,0.3402334
+Ireland,2017,0.30404967
+Ireland,2018,0.098707505
+Ireland,2019,0.05635195
+Ireland,2020,0.18253659
+Ireland,2021,0.13114
+Ireland,2022,0.20084575
+Ireland,2023,0.08230577
+Israel,2016,0.5
+Israel,2017,0.70000005
+Israel,2018,0.70000005
+Israel,2019,0.9
+Israel,2020,0.70000005
+Israel,2021,0.6
+Israel,2022,0.4
+Italy,2016,1.7778952
+Italy,2017,1.5411754
+Italy,2018,1.7016388
+Italy,2019,1.0350133
+Italy,2020,0.87642205
+Italy,2021,0.8676234
+Italy,2022,0.6849133
+Italy,2023,0.9272269
+Jamaica,2018,0.42488948
+Jamaica,2021,1.3869244
+Japan,2016,0.70000005
+Japan,2017,0.6
+Japan,2018,1
+Japan,2019,1.3000001
+Japan,2020,1.2
+Kazakhstan,2016,0.16936122
+Kazakhstan,2017,0.115472324
+Kazakhstan,2018,0.061130203
+Kazakhstan,2019,0.07967438
+Kazakhstan,2020,0.03744455
+Kazakhstan,2021,0.040175647
+Kenya,2020,44.427715
+Kenya,2021,46.44985
+Kenya,2022,45.482666
+Kiribati,2019,6.133309
+Kiribati,2023,0.92907137
+Kosovo,2017,15.215641
+Kosovo,2018,20.710169
+Kosovo,2019,11.31482
+Kosovo,2020,16.780807
+Kosovo,2021,24.980827
+Kosovo,2022,9.97881
+Kyrgyzstan,2016,7.9727
+Kyrgyzstan,2017,8.19376
+Kyrgyzstan,2018,5.908497
+Kyrgyzstan,2019,4.9197154
+Kyrgyzstan,2020,9.384729
+Kyrgyzstan,2021,5.6484838
+Kyrgyzstan,2022,4.5493064
+Kyrgyzstan,2023,2.7435172
+Kyrgyzstan,2024,2.1876485
+Laos,2018,15.656701
+Laos,2024,7.1268916
+Latin America and Caribbean (WB),2016,6.2125297
+Latin America and Caribbean (WB),2017,6.1569443
+Latin America and Caribbean (WB),2018,6.093155
+Latin America and Caribbean (WB),2019,6.18047
+Latin America and Caribbean (WB),2020,5.8238688
+Latin America and Caribbean (WB),2021,6.2497096
+Latin America and Caribbean (WB),2022,5.0476503
+Latin America and Caribbean (WB),2023,4.6233735
+Latin America and Caribbean (WB),2024,4.281689
+Latin America and Caribbean (WB),2025,4.1163845
+Latin America and Caribbean (WB),2026,4.049232
+Latvia,2016,0.961231
+Latvia,2017,0.9826289
+Latvia,2018,0.5591618
+Latvia,2019,0.33747858
+Latvia,2020,0.5121097
+Latvia,2021,0.49065453
+Latvia,2022,0.4241415
+Latvia,2023,0.44409683
+Lebanon,2022,5.7806125
+Lesotho,2017,41.85849
+Liberia,2016,33.558933
+Lithuania,2016,1.4791508
+Lithuania,2017,1.1671779
+Lithuania,2018,0.9812001
+Lithuania,2019,0.6033842
+Lithuania,2020,0.47280848
+Lithuania,2021,0.3185262
+Lithuania,2022,0.8017552
+Lithuania,2023,1.097914
+Luxembourg,2016,0.11721951
+Luxembourg,2017,0.2910417
+Luxembourg,2018,0.3040011
+Luxembourg,2019,0.101187475
+Luxembourg,2020,0
+Luxembourg,2021,0.08239361
+Luxembourg,2022,0.104373276
+Luxembourg,2023,0.085137635
+Madagascar,2021,69.17264
+Malawi,2016,71.65249
+Malawi,2019,75.43822
+Malaysia,2018,0.030152557
+Malaysia,2021,0.013082942
+Maldives,2016,0.08725211
+Maldives,2019,0
+Mali,2018,29.382442
+Mali,2021,36.103077
+Malta,2016,0.11352592
+Malta,2017,0.16486418
+Malta,2018,0.15923339
+Malta,2019,0.30468178
+Malta,2020,0.3938395
+Malta,2021,0.12168417
+Malta,2022,0.110051446
+Malta,2023,0.3938834
+Marshall Islands,2019,2.1009586
+Mauritania,2019,10.221504
+Mauritius,2017,0.5401916
+Mexico,2016,4.436893
+Mexico,2018,3.8940403
+Mexico,2020,4.256035
+Mexico,2022,2.3303962
+Mexico,2024,1.6458544
+"Middle East, North Africa, Afghanistan and Pakistan (WB)",2016,11.344019
+"Middle East, North Africa, Afghanistan and Pakistan (WB)",2017,11.057938
+"Middle East, North Africa, Afghanistan and Pakistan (WB)",2018,11.05671
+"Middle East, North Africa, Afghanistan and Pakistan (WB)",2019,11.637239
+"Middle East, North Africa, Afghanistan and Pakistan (WB)",2020,12.603667
+"Middle East, North Africa, Afghanistan and Pakistan (WB)",2021,13.436042
+"Middle East, North Africa, Afghanistan and Pakistan (WB)",2022,13.457148
+"Middle East, North Africa, Afghanistan and Pakistan (WB)",2023,13.8778715
+"Middle East, North Africa, Afghanistan and Pakistan (WB)",2024,14.3186655
+"Middle East, North Africa, Afghanistan and Pakistan (WB)",2025,14.592035
+"Middle East, North Africa, Afghanistan and Pakistan (WB)",2026,14.473684
+Moldova,2016,0.16489004
+Moldova,2017,0.061244413
+Moldova,2018,0.018238723
+Moldova,2019,0.02864514
+Moldova,2020,0.01607856
+Moldova,2021,0.16464782
+Moldova,2022,0.039553065
+Moldova,2023,0.1292224
+Moldova,2024,0
+Mongolia,2016,1.9383699
+Mongolia,2018,1.6911339
+Mongolia,2022,0.4398251
+Montenegro,2016,3.317847
+Montenegro,2017,4.6466627
+Montenegro,2018,3.9086416
+Montenegro,2019,2.4932585
+Montenegro,2020,2.243258
+Montenegro,2021,2.493799
+Mozambique,2019,81.63159
+Mozambique,2022,81.361374
+Myanmar,2017,10.266229
+Nepal,2022,2.4363146
+Netherlands,2016,0.057693757
+Netherlands,2017,0.20608893
+Netherlands,2018,0.11213846
+Netherlands,2019,0.0957287
+Netherlands,2020,0.040797565
+Netherlands,2021,0.09726311
+Niger,2018,59.0125
+Niger,2021,60.48987
+Nigeria,2018,34.192905
+Nigeria,2022,41.81955
+North America (WB),2016,1.0376816
+North America (WB),2017,1.1437607
+North America (WB),2018,0.98928493
+North America (WB),2019,0.9018368
+North America (WB),2020,0.303712
+North America (WB),2021,0.27256343
+North America (WB),2022,1.20443
+North America (WB),2023,1.0771841
+North America (WB),2024,0.93769544
+North America (WB),2025,0.93297946
+North America (WB),2026,0.9283226
+North Macedonia,2016,5.6886806
+North Macedonia,2017,5.6397276
+North Macedonia,2018,4.279975
+North Macedonia,2019,3.9403512
+Norway,2016,0.28067333
+Norway,2017,0.29165247
+Norway,2018,0.28180093
+Norway,2019,0.19042723
+Norway,2020,0.29495806
+Norway,2021,0.17024024
+Norway,2022,0.29465964
+Norway,2023,0.19705932
+Pakistan,2018,16.51617
+Pakistan,2024,22.956306
+Palestine,2016,1.3776547
+Palestine,2023,2.0733128
+Panama,2016,4.798022
+Panama,2017,4.276578
+Panama,2018,3.746503
+Panama,2019,2.9157352
+Panama,2021,3.3005018
+Panama,2023,3.73237
+Panama,2024,3.1258318
+Paraguay,2016,4.169227
+Paraguay,2017,2.375072
+Paraguay,2018,3.0729103
+Paraguay,2019,2.4438963
+Paraguay,2020,2.5551214
+Paraguay,2021,1.8594977
+Paraguay,2022,3.232262
+Paraguay,2023,2.3929317
+Paraguay,2024,2.1053329
+Peru,2016,7.469328
+Peru,2017,7.314062
+Peru,2018,6.07525
+Peru,2019,5.419252
+Peru,2020,10.308157
+Peru,2021,5.1898446
+Peru,2022,4.840824
+Peru,2023,5.878739
+Peru,2024,5.140564
+Philippines,2018,13.40988
+Philippines,2021,15.6957445
+Philippines,2023,11.531733
+Poland,2016,0.3610555
+Poland,2017,0.42318353
+Poland,2018,0.30601275
+Poland,2019,0.10246086
+Poland,2020,0.1890685
+Poland,2021,0.11429503
+Poland,2022,0.3239149
+Poland,2023,0.24412745
+Portugal,2016,0.41006288
+Portugal,2017,0.44082943
+Portugal,2018,0.3823886
+Portugal,2019,0.18491471
+Portugal,2020,0.6367835
+Portugal,2021,0.3274342
+Portugal,2022,0.22474506
+Portugal,2023,0.41326326
+Qatar,2017,0
+Romania,2016,5.222363
+Romania,2017,4.8952637
+Romania,2018,3.7382538
+Romania,2019,3.0924563
+Romania,2020,2.4292545
+Romania,2021,2.0289817
+Romania,2022,1.4528089
+Romania,2023,0.70015216
+Russia,2016,0.06396301
+Russia,2017,0.101174474
+Russia,2018,0.09523157
+Russia,2019,0.07635302
+Russia,2020,0.041680403
+Rwanda,2016,63.843815
+Rwanda,2023,38.55049
+Sao Tome and Principe,2017,13.006117
+Senegal,2018,19.149698
+Senegal,2021,17.887472
+Serbia,2016,8.09296
+Serbia,2017,6.6460147
+Serbia,2018,4.1540093
+Serbia,2019,2.7242732
+Serbia,2020,2.0365922
+Serbia,2021,1.6963208
+Serbia,2022,2.039072
+Serbia,2023,1.09419
+Seychelles,2018,0.6736329
+Sierra Leone,2018,41.4852
+Slovakia,2016,1.5438128
+Slovakia,2017,0.57615745
+Slovakia,2018,0.5082215
+Slovakia,2019,0.2315894
+Slovakia,2020,0.2950257
+Slovakia,2021,0.34402588
+Slovakia,2022,0.6956504
+Slovakia,2023,0.45213726
+Slovenia,2016,0
+Slovenia,2017,0
+Slovenia,2018,0
+Slovenia,2019,0
+Slovenia,2020,0
+Slovenia,2021,0
+Slovenia,2022,0
+Slovenia,2023,0
+South Africa,2022,17.43592
+South Asia (WB),2016,14.3697815
+South Asia (WB),2017,11.946313
+South Asia (WB),2018,9.943872
+South Asia (WB),2019,8.713668
+South Asia (WB),2020,9.390138
+South Asia (WB),2021,7.870245
+South Asia (WB),2022,6.129177
+South Asia (WB),2023,4.0705347
+South Asia (WB),2024,2.5579927
+South Asia (WB),2025,2.0754137
+South Asia (WB),2026,1.6873353
+South Korea,2016,0.2
+South Korea,2017,0.2
+South Korea,2018,0.2
+South Korea,2019,0.2
+South Korea,2020,0.1
+South Korea,2021,0.1
+South Sudan,2016,76.50265
+Spain,2016,1.299179
+Spain,2017,0.8333411
+Spain,2018,0.9773518
+Spain,2019,0.8941992
+Spain,2020,1.0968449
+Spain,2021,0.657791
+Spain,2022,0.78522825
+Spain,2023,0.8134084
+Sri Lanka,2016,3.8126643
+Sri Lanka,2019,2.705454
+Sub-Saharan Africa (WB),2016,45.13601
+Sub-Saharan Africa (WB),2017,44.5963
+Sub-Saharan Africa (WB),2018,44.134995
+Sub-Saharan Africa (WB),2019,43.873035
+Sub-Saharan Africa (WB),2020,45.989426
+Sub-Saharan Africa (WB),2021,46.155468
+Sub-Saharan Africa (WB),2022,45.616173
+Sub-Saharan Africa (WB),2023,45.533634
+Sub-Saharan Africa (WB),2024,44.973495
+Sub-Saharan Africa (WB),2025,44.13091
+Sub-Saharan Africa (WB),2026,43.261837
+Suriname,2022,2.1780427
+Sweden,2016,0.42260933
+Sweden,2017,0.2654956
+Sweden,2018,0.8583864
+Sweden,2019,0.36009297
+Sweden,2020,0.45124763
+Sweden,2021,0.643469
+Sweden,2022,1.2714953
+Sweden,2023,0.8379481
+Switzerland,2016,0.04491901
+Switzerland,2017,0.02182594
+Switzerland,2018,0.035259385
+Switzerland,2019,0.017386846
+Switzerland,2020,0.07052665
+Switzerland,2021,0.03814099
+Switzerland,2022,0.20869467
+Switzerland,2023,0.069562726
+Syria,2022,17.961851
+Taiwan,2016,0.1
+Taiwan,2017,0.1
+Taiwan,2018,0.1
+Taiwan,2019,0.1
+Taiwan,2020,0.1
+Taiwan,2021,0.1
+Tajikistan,2021,9.067149
+Tajikistan,2022,8.852836
+Tajikistan,2023,7.291276
+Tajikistan,2024,6.1335406
+Tanzania,2018,51.346867
+Thailand,2016,0.13783772
+Thailand,2017,0.10010591
+Thailand,2018,0.10643604
+Thailand,2019,0.13463362
+Thailand,2020,0.06304341
+Thailand,2021,0.028600827
+Thailand,2022,0.020269364
+Thailand,2023,0.004842255
+Thailand,2024,0.014684569
+Togo,2018,35.308163
+Togo,2021,34.661133
+Tonga,2021,0.40881905
+Tunisia,2021,0.6540434
+Turkey,2016,0.8960857
+Turkey,2017,1.1253557
+Turkey,2018,0.99603695
+Turkey,2019,1.2772818
+Turkey,2020,1.1410935
+Turkey,2021,0.9449698
+Turkey,2022,0.5295797
+Turkey,2023,0.17505723
+Uganda,2016,60.105316
+Uganda,2019,59.784378
+Uganda,2023,54.36213
+Ukraine,2016,0.24907406
+Ukraine,2017,0.08330421
+Ukraine,2018,0.23609516
+Ukraine,2019,0.18007751
+Ukraine,2020,0.033767752
+United Arab Emirates,2018,0
+United Kingdom,2016,0.4
+United Kingdom,2017,0.4
+United Kingdom,2018,0.4
+United Kingdom,2019,0.4
+United Kingdom,2020,0.5
+United Kingdom,2021,0.4
+United States,2016,1.2
+United States,2017,1.3000001
+United States,2018,1.1
+United States,2019,1
+United States,2020,0.4
+United States,2021,0.3
+United States,2022,1.4000001
+United States,2023,1.2
+United States,2024,1.1
+Uruguay,2016,0.1253963
+Uruguay,2017,0.11754421
+Uruguay,2018,0.09022135
+Uruguay,2019,0.1317269
+Uruguay,2020,0.27661452
+Uruguay,2021,0.15432957
+Uruguay,2022,0.24023405
+Uruguay,2023,0.1693897
+Uruguay,2024,0.16715977
+Uzbekistan,2021,4.373623
+Uzbekistan,2022,4.3929377
+Uzbekistan,2023,4.0662766
+Uzbekistan,2024,2.7184038
+Uzbekistan,2025,2.3006623
+Vanuatu,2019,19.495604
+Vietnam,2016,2.5073142
+Vietnam,2018,2.2435725
+Vietnam,2020,1.3027537
+Vietnam,2022,1.6033597
+Western and Central Africa (WB),2016,38.970947
+Western and Central Africa (WB),2017,37.011986
+Western and Central Africa (WB),2018,35.180527
+Western and Central Africa (WB),2019,33.827667
+Western and Central Africa (WB),2020,36.662216
+Western and Central Africa (WB),2021,37.097744
+Western and Central Africa (WB),2022,36.6953
+Western and Central Africa (WB),2023,36.548695
+Western and Central Africa (WB),2024,35.5424
+Western and Central Africa (WB),2025,34.7912
+Western and Central Africa (WB),2026,33.902496
+World,2016,12.573676
+World,2017,11.793226
+World,2018,11.118861
+World,2019,10.763255
+World,2020,11.410335
+World,2021,11.317925
+World,2022,10.874415
+World,2023,10.474643
+World,2024,10.124266
+World,2025,9.949764
+World,2026,9.793789
+World (excluding China),2016,14.942612
+World (excluding China),2017,14.087669
+World (excluding China),2018,13.429885
+World (excluding China),2019,13.141793
+World (excluding China),2020,13.909093
+World (excluding China),2021,13.774073
+World (excluding China),2022,13.209174
+World (excluding China),2023,12.695582
+World (excluding China),2024,12.242963
+World (excluding China),2025,12.0052185
+World (excluding China),2026,11.791524
+World (excluding India),2016,12.246362
+World (excluding India),2017,11.802622
+World (excluding India),2018,11.389302
+World (excluding India),2019,11.211827
+World (excluding India),2020,11.790836
+World (excluding India),2021,12.010849
+World (excluding India),2022,11.874282
+World (excluding India),2023,11.887462
+World (excluding India),2024,11.82315
+World (excluding India),2025,11.719128
+World (excluding India),2026,11.616631
+Zambia,2022,71.65615
+Zimbabwe,2017,44.65687
+Zimbabwe,2019,49.219894
