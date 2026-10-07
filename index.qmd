@@ -1,0 +1,47 @@
+---
+title: "Global Poverty Trends (2016-2026)"
+format: html
+embed-resources: true
+editor: visual
+---
+
+Data Source: Our World in Data - Poverty ([World Bank (2026). Poverty and Inequality Platform (version 20260324_2021 and 20260324_2017) \[Data set\]. World Bank Group. https://pip.worldbank.org/.](https://pip.worldbank.org/))
+
+# Visualization 1
+
+```{r}
+library(tidyverse)
+library(readr)
+owi_poverty <- read_csv("data/share-of-population-living-in-extreme-poverty.csv") 
+View(owi_poverty)
+
+poverty_world <- owi_poverty |>
+  filter(Country == c("World", "World (excluding China)", "World (excluding India)"))
+  
+ggplot(data = poverty_world,
+       mapping = aes(x = Year,
+                     y = `Share below $3 a day`,
+                     color = Country)) +
+  geom_point(size = 2, shape = 16) +
+  geom_smooth(method = "loess",
+              se = FALSE) +
+  scale_x_continuous(breaks = seq(2016, 2026, by = 1)) +
+  theme_minimal()
+  
+  
+  
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+```{r}
+test commit
+
+```
