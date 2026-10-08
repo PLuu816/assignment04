@@ -124,3 +124,66 @@ ggplot(data = WB_econ_indicators_2023,
   ) 
 
 ```
+
+# Visualization 4
+
+```{r}
+library(tidyverse)
+
+WB_econ_indicators <- read_csv("data/world_bank_data_2025.csv")
+
+bottom5 <- WB_econ_indicators |>
+  filter(year == 2019) |>
+  slice_min(`GDP per Capita (Current USD)`, n = 5) |>
+  pull(country_name)
+
+top5 <- WB_econ_indicators |>
+  filter(year == 2019) |>
+  slice_max(`GDP per Capita (Current USD)`, n = 5) |>
+  pull(country_name)
+
+covid_data <- WB_econ_indicators |>
+  filter(
+    year >= 2018,
+    year <= 2023,
+    country_name %in% c(bottom5, top5)
+  ) |>
+  mutate(
+    group = case_when(
+      country_name %in% bottom5 ~ "Bottom 5",
+      country_name %in% top5 ~ "Top 5"
+    )
+  )
+
+covid_summary <- covid_data |>
+  group_by(year, group) |>
+  summarize(
+    avg_growth = mean(`GDP Growth (% Annual)`, na.rm = TRUE)
+  )
+
+ggplot(data = covid_summary,
+       mapping = aes(x = year,
+                     y = avg_growth,
+                     color = group,
+                     linetype = group)) +
+  geom_line(linewidth = 1.2) +
+  geom_point(size = 3,
+             alpha = 0.8) +
+  geom_vline(xintercept = 2020,
+             linetype = "dotted") +
+  scale_linetype(guide = "none") +
+  labs(
+    x = "Year",
+    y = "Average GDP Growth (% Annual)",
+    color = "Country Group",
+    title = paste("COVID-19's Economic Impact on the World's Wealthiest",
+                  "and\nPoorest 5 Countries by GDP per Capita"),
+    subtitle = paste("Policies which allowed the wealthiest 5 countries",
+                     "to recover their pre-shock\naverage GDP growth",
+                     "significantly more quickly than the poorest 5",
+                     "ultimately\ncaused a subsequent drop below",
+                     "that of the poorest 5"),
+    caption = "Source: World Bank Global Economic Indicators, 2010-2025") +
+  theme_classic()
+  
+```
