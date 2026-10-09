@@ -18,7 +18,7 @@ library(readr)
 owi_poverty <- read_csv("data/share-of-population-living-in-extreme-poverty.csv") 
 
 poverty_world <- owi_poverty |>
-  filter(Country == c("World", "World (excluding China)", "World (excluding India)"))
+  filter(Country %in% c("World", "World (excluding China)", "World (excluding India)"))
   
 ggplot(data = poverty_world,
        mapping = aes(x = Year,
@@ -43,6 +43,8 @@ ggplot(data = poverty_world,
   
   
 ```
+
+This visualization tracks the share of people living \$3 a day for the world, the world excluding China, and the world excluding India over the past decade. The share of people living below \$3 a day has fallen over this time period, and the gap between the world and world excluding China trends shows the significant impact that China's poverty rate influences that of the world. The "excluding India" line shows how much the global average depends on India's trajectory in poverty reduction. Policy implications are, most notably, that looking at aggregate measures alone obscure uneven progress across countries. Policies and programs to end or significantly reduce poverty should thus target countries with the highest concentration of the world's remaining poor.
 
 # Visualization 2
 
@@ -82,6 +84,8 @@ ggplot(data = bottom5_gdppc_2023,
 
 
 ```
+
+This bar chart shows the five poorest countries by GDP per capita, which are concentrated in Africa and the Middle East (Madagascar, Burundi, the Central African Republic, Yemen, and Afghanistan). The main objective of this visualization is to show if and where poverty is concentrated globally, following the policy implications of the previous visualization. The beginning of the answer to this question, looking at this bar chart, is that poverty is heavily concentrated in Africa, primarily, and also the Middle East. If this visualization were to include the 20 poorest countries by GDP per capita, I imagine this would widen the scope of regions to look at, likely adding Southeast Asia and Latin America to the list. Implications for policy are most notably that, if we are to address global poverty, we should start by concentrating efforts on those regions at the bottom end of the income and consumption distribution.
 
 # Visualization 3
 
@@ -124,6 +128,8 @@ ggplot(data = WB_econ_indicators_2023,
   ) 
 
 ```
+
+This bubble chart compares GDP growth, unemployment, and GDP per capita. Most countries cluster around low-to-moderate annual GDP growth and low unemployment. Since bubble size encodes GDP per capita, it is clear from this visualization that the wealthiest countries (biggest bubbles) sit in the stable middle, while small economies account for almost all of the outliers (all of which are labeled). The weak-to-nonexistent relationship between GDP growth and unemployment is the main policy implication of this visualization – economic growth alone does not necessarily translate into jobs – this last step requires accompanying and well thought-out labor-market policies.
 
 # Visualization 4
 
@@ -181,9 +187,11 @@ ggplot(data = covid_summary,
     subtitle = paste("Policies which allowed the wealthiest 5 countries",
                      "to recover their pre-shock\naverage GDP growth",
                      "significantly more quickly than the poorest 5",
-                     "ultimately\ncaused a subsequent drop below",
+                     "was followed\nby a subsequent drop below",
                      "that of the poorest 5"),
     caption = "Source: World Bank Global Economic Indicators, 2010-2025") +
   theme_classic()
   
 ```
+
+This line chart compares the average growth rates of the 5 wealthiest economies and the 5 poorest economies over the course of the Covid-19 pandemic period, with the beginning of the pandemic marked by the black dotted line. From the graph, we see that wealthy countries, with fiscal capacity to implement stimulus and develop/carry out vaccinations, rebounded much more quickly than poorer countries, which lacked the resources for either significant stimulus or widespread vaccine distribution without external/international help. The policy implication of this visualization is that poor countries lack the tools and resources to deal with shocks of this scale, which should be an argument in favor of international support from wealthy countries to poorer ones in times of global shocks, which proved to be effective, if imperfect, for the Covid-19 shock.
